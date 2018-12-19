@@ -1,0 +1,10 @@
+o
+o.obj
+.lib
+.so
+.dll
+.ext
+a.out
+*.swp
+.~
+thumbs.db
